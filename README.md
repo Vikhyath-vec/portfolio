@@ -1,7 +1,7 @@
 # Personal Portfolio
 This is the first iteration of my portfolio website. It is built with Next.js, React and Tailwind CSS.
 
-Check it out [here](https://www.seekvisualartist.com/)
+Check it out [here](https://vikhyath.vercel.app/)
 
 ---
 

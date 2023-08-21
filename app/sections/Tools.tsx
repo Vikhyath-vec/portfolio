@@ -4,23 +4,20 @@ import Link from "next/link";
 import AnimatedBody from "../animations/AnimatedBody";
 import AnimatedTitle from "../animations/AnimatedTitle";
 import {
-    SiAdobeaftereffects, SiAdobefonts,
     SiAdobeillustrator,
-    SiAdobephotoshop, SiAmazonaws, SiAndroid, SiAndroidstudio, SiAngular, SiAstro, SiCinema4D, SiCplusplus, SiDart, SiDigitalocean, SiDjango, SiFastapi, SiFigma, SiFirebase, SiFlask, SiFlutter, SiFramer, SiGit,
+    SiAdobephotoshop, SiAmazonaws, SiAndroid, SiAndroidstudio, SiAngular, SiCplusplus, SiDart, SiDigitalocean, SiDjango, SiFastapi, SiFigma, SiFirebase, SiFlask, SiFlutter, SiGit,
     SiGithub,
     SiGitkraken,
     SiGnometerminal,
     SiGnu,
     SiGnubash,
-    SiGnuemacs,
-    SiGo,
-    SiGooglechrome, SiGooglecloud, SiGooglecolab, SiGooglefonts,
+    SiGo, SiGooglecloud, SiGooglecolab, SiGooglefonts,
     SiHeroku,
     SiHugo,
-    SiIntellijidea, SiIos, SiJavascript, SiJekyll, SiJupyter, SiKotlin, SiLatex, SiLinux, SiLua,
+    SiIntellijidea, SiIos, SiJavascript, SiJekyll, SiJupyter, SiLatex, SiLinux,
     SiMacos,
     SiMicrosoftazure,
-    SiNeovim, SiNextdotjs, SiNumpy, SiOctave, SiOpencv, SiPandas, SiPostgresql, SiPython, SiPytorch, SiR, SiReact, SiRust, SiScikitlearn, SiScipy, SiSocketdotio, SiSpring, SiTensorflow, SiTypescript, SiVisualstudiocode, SiWebstorm, SiWindows, SiZig
+    SiNextdotjs, SiNumpy, SiOctave, SiOpencv, SiPandas, SiPostgresql, SiPython, SiPytorch, SiR, SiReact, SiScikitlearn, SiScipy, SiSocketdotio, SiSpring, SiTensorflow, SiTypescript, SiVisualstudiocode, SiWindows
 } from "react-icons/si";
 import { FaJava } from "react-icons/fa";
 import AnimatedTools from "../animations/AnimatedTools.tsx";

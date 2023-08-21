@@ -10,7 +10,7 @@ const syne = Syne({
 });
 
 export const metadata: Metadata = {
-    metadataBase: new URL("https://www.seekvisualartist.com/"),
+    metadataBase: new URL("https://vikhyath.vercel.app/"),
     title: "Vikhyath's Portfolio",
     description:
     "A passionate tech enthusiast with a strong affinity for backend and frontend development. My diverse interests span across the realms of image processing, video content analysis, machine learning, and data-driven astronomy.",
@@ -58,14 +58,14 @@ export const metadata: Metadata = {
         title: "Vikhyath Kothamasu - Developer and Researcher",
         description:
       "A passionate tech enthusiast with a strong affinity for backend and frontend development. My diverse interests span across the realms of image processing, video content analysis, machine learning, and data-driven astronomy.",
-        url: "https://www.seekvisualartist.com/",
-        siteName: "www.seekvisualartist.com",
+        url: "https://vikhyath.vercel.app/",
+        siteName: "vikhyath.vercel.app/",
         images: [
             {
-                url: "./public/metadata.jpg",
+                url: "./public/metadata.png",
                 width: 1200,
                 height: 630,
-                alt: "Seek Visual Artist - Designer and Developer",
+                alt: "Vikhyath Kothamasu - Developer and Researcher",
             },
         ],
         locale: "en-US",
@@ -78,7 +78,7 @@ export const metadata: Metadata = {
       "A passionate tech enthusiast with a strong affinity for backend and frontend development. My diverse interests span across the realms of image processing, video content analysis, machine learning, and data-driven astronomy.",
         creator: "Vikhyath Kothamasu",
         creatorId: "0000000000",
-        images: ["./public/metadata.jpg"],
+        images: ["./public/metadata.png"],
     },
     robots: {
         index: true,

@@ -1,6 +1,5 @@
 "use client";
 import React, {useState} from "react";
-import { ScrollerMotion } from "scroller-motion";
 import { useEffectOnce, useEventListener } from 'usehooks-ts';
 
 import PreLoader from "./components/other/PreLoader";
