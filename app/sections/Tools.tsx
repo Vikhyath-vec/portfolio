@@ -365,7 +365,7 @@ const Tools = () => {
                     <div className="mb-10 flex w-[100%] flex-col gap-4 text-[18px] font-bold leading-relaxed tracking-wide text-[#e4ded7] md:mb-16 md:gap-6 md:text-[40px] md:leading-relaxed lg:mb-16 lg:w-[50%]">
                         <AnimatedBody delay={0.4} text="Libraries" />
                         <div>
-                            <AnimatedTools className="grid grid-cols-8 gap-4" delay={0.4} stepSize={0.1} iconSize={50}>
+                            <AnimatedTools className="grid grid-cols-4 gap-4" delay={0.4} stepSize={0.1} iconSize={50}>
                                 <Link
                                     href="https://www.tensorflow.org/"
                                     target="_blank"
