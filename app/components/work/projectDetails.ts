@@ -46,7 +46,7 @@ export const projects = [
         id: 0,
         name: "Video Content Analysis",
         description:
-            "This is a tracking and detection algorithm for 3D LiDAR data",
+            "Working on a novel algorithm for 3D LiDAR detection and tracking",
         technologies: [SiPython, SiPytorch, SiTensorflow, SiOpencv],
         techNames: ["Python", "Pytorch", "Tensorflow", "OpenCV"],
         techLinks: ["https://www.python.org/", "https://pytorch.org/", "https://www.tensorflow.org/", "https://opencv.org/"],
@@ -60,7 +60,7 @@ export const projects = [
         id: 1,
         name: "Video Codec",
         description:
-            "This is a new video compression algorithm based on wave dynamics and rotational symmetry",
+            "Developed a new video compression and decompression algorithm based on wave dynamics and rotational symmetry",
         technologies: [SiPython, SiOpencv, SiPytorch],
         techNames: ["Python", "OpenCV", "Pytorch"],
         techLinks: ["https://www.python.org/", "https://opencv.org/", "https://pytorch.org/"],

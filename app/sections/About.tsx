@@ -64,13 +64,21 @@ const About = () => {
                                     data-blobity-tooltip="Salesforce"
                                     data-blobity-magnetic="false"
                                 >
-                                    <SiSalesforce size={70}/>
+                                    {/* <SiSalesforce size={70}/> */}
+                                    <Image
+                                        className={`w-92 h-47`}
+                                        src="/salesforce1.png"
+                                        alt="Logo"
+                                        width={100}
+                                        height={72}
+                                    />
                                 </Link>
                             </span>
                             <span>
                                 <AnimatedBody
                                     delay={0.3}
                                     text="Experience - Summer SDE Intern at Salesforce"
+                                    className="text-[#0d9dda]"
                                 />
                             </span>
                         </div>
